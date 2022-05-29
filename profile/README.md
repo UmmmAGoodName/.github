@@ -7,7 +7,7 @@ GameHub Website:
 | Total Forks    | ![GitHub forks](https://img.shields.io/github/forks/UmmmAGoodName/gamehub)                    |
 | Total Stars    | ![GitHub Repo stars](https://img.shields.io/github/stars/UmmmAGoodName/gamehub?style=plastic) |
 
-GameHub Website:
+GameHub Client:
 | Release        | ![GitHub all releases](https://img.shields.io/github/downloads/UmmmAGoodName/gamehub/total)   |
 | :------------- | :-------------                                                                                |
 | Total issues   | ![GitHub issues](https://img.shields.io/github/issues/UmmmAGoodName/gamehub-client)                  |
