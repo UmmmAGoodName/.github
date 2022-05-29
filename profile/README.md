@@ -1,14 +1,14 @@
 GameHub Website:
-| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/gamehub-project/gamehub/total)   |
+| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/gamehub-project/gamehub-web/total)   |
 | :------------- | :-------------                                                                                |
-| Total issues   | ![GitHub issues](https://img.shields.io/github/issues/gamehub-project/gamehub)                  |
-| Total size     | ![GitHub repo size](https://img.shields.io/github/repo-size/gamehub-project/gamehub)            |
-| Licens type    | ![GitHub](https://img.shields.io/github/license/gamehub-project/gamehub)                        |
-| Total Forks    | ![GitHub forks](https://img.shields.io/github/forks/gamehub-project/gamehub)                    |
-| Total Stars    | ![GitHub Repo stars](https://img.shields.io/github/stars/gamehub-project/gamehub?style=plastic) |
+| Total issues   | ![GitHub issues](https://img.shields.io/github/issues/gamehub-project/gamehub-web)                  |
+| Total size     | ![GitHub repo size](https://img.shields.io/github/repo-size/gamehub-project/gamehub-web)            |
+| Licens type    | ![GitHub](https://img.shields.io/github/license/gamehub-project/gamehub-web)                        |
+| Total Forks    | ![GitHub forks](https://img.shields.io/github/forks/gamehub-project/gamehub-web)                    |
+| Total Stars    | ![GitHub Repo stars](https://img.shields.io/github/stars/gamehub-project/gamehub-web?style=plastic) |
 
 GameHub Client:
-| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/gamehub-project/gamehub/total)   |
+| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/gamehub-project/gamehub-client/total)   |
 | :------------- | :-------------                                                                                |
 | Total issues   | ![GitHub issues](https://img.shields.io/github/issues/gamehub-project/gamehub-client)                  |
 | Total size     | ![GitHub repo size](https://img.shields.io/github/repo-size/gamehub-project/gamehub-client)   |
