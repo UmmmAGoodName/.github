@@ -1,12 +1,17 @@
-## Hi there 👋
+GameHub Website:
+| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/UmmmAGoodName/gamehub/total)   |
+| :------------- | :-------------                                                                                |
+| Total issues   | ![GitHub issues](https://img.shields.io/github/issues/UmmmAGoodName/gamehub)                  |
+| Total size     | ![GitHub repo size](https://img.shields.io/github/repo-size/UmmmAGoodName/gamehub)            |
+| Licens type    | ![GitHub](https://img.shields.io/github/license/UmmmAGoodName/gamehub)                        |
+| Total Forks    | ![GitHub forks](https://img.shields.io/github/forks/UmmmAGoodName/gamehub)                    |
+| Total Stars    | ![GitHub Repo stars](https://img.shields.io/github/stars/UmmmAGoodName/gamehub?style=plastic) |
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GameHub Website:
+| Release        | ![GitHub all releases](https://img.shields.io/github/downloads/UmmmAGoodName/gamehub/total)   |
+| :------------- | :-------------                                                                                |
+| Total issues   | ![GitHub issues](https://img.shields.io/github/issues/UmmmAGoodName/gamehub-client)                  |
+| Total size     | ![GitHub repo size](https://img.shields.io/github/repo-size/gamehub-project/gamehub-client)   |
+| Licens type    | ![GitHub](https://img.shields.io/github/license/UmmmAGoodName/gamehub-client)                        |
+| Total Forks    | ![GitHub forks](https://img.shields.io/github/forks/UmmmAGoodName/gamehub-client)                    |
+| Total Stars    | ![GitHub Repo stars](https://img.shields.io/github/stars/UmmmAGoodName/gamehub-client?style=plastic) |
